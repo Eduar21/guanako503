@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.salvadorian.nosim
+Name: NoSim
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description:Ocean DON’T DELETE THIS! Remove the message “No Sim”.
+Maintainer: Cristian Casco
+Author: Cristian Casco
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/com.salvadorian.nosim.deb
+Depiction: https://Eduar21.github.io/guanako503.depiction.nosim
+Size: 3490
+MD5sum:5effe62fbea7d94a9deff28e17611ffc
