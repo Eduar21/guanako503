@@ -7,7 +7,7 @@ Maintainer: Cristian Casco
 Author: Cristian Casco
 Section: Tweaks
 Version: 1.0
-Filename: ./debs/com.salvadorian.nosim.deb
+Filename: debs/com.salvadorian.nosim.deb
 Depiction: https://eduar21.github.io/guanako503/.depiction.nosim
 Size: 3490
 MD5sum:5effe62fbea7d94a9deff28e17611ffc
